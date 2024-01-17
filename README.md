@@ -1,6 +1,7 @@
 # crudBasicoCompleto
 Este proyecto es un crud básico con PHP, MySQL, Javascript y Bootstrap.
 
-Los campos de formulario tendrán validaciones, por parte del servidor con PHP y por parte del cliente con Javascript.
+Cuenta con registro e inicio de sesión, y con sus respectivas validaciones de formulario, con Javascript y PHP.
 
-Se podrán adjuntar imágenes, tendrá validacion de inicio de sesion y otras funcionalidades combinadas con Bootstrap.
+Al iniciar sesión la persona podra crear sus proyectos, editarlos, eliminarlos y visualizarlos en la página principal (index).
+Se desarrollo el correcto cargue de imágenes para poder previsualizar el proyecto creado. También estos campos tienen validaciones.
